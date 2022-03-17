@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+XBeach documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This repository holds the latest built of the CoSMoS documentation.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+The web version of the documentation can be found at: https://cosmos-docs.readthedocs.io/en/latest/
