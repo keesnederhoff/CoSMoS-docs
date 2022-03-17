@@ -1,4 +1,4 @@
-XBeach documentation
+CoSMoS documentation
 =======================================
 
 This repository holds the latest built of the CoSMoS documentation.
