@@ -1,5 +1,8 @@
-User Manual
-===
+User manual
+=====
 
-.. autosummary::
-   :toctree: generated
+
+First
+------------
+
+Test

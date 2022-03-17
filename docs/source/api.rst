@@ -2,7 +2,10 @@ User manual
 =====
 
 
-First
+First section
 ------------
 
-Test
+Test test
+
+.. code-block:: matlab
+   a = 1
