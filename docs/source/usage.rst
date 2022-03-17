@@ -1,30 +1,26 @@
-Usage
+Getting started
 =====
 
-.. _installation:
 
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use Lumache, first make a check of the CoSMoS code. 
+
+Secondly, make enviroment
 
 .. code-block:: console
+   conda env create -f d:\checkouts\Python\OpenEarthTools\cosmos\environment_cosmos.yml
 
-   (.venv) $ pip install lumache
+   
+Thirdly, add CoSMoS to your path via the following ``cosmos_add_paths()`` function:
 
-Creating recipes
+   
+   
+Get started
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
+To run CoSMoS, you can use you can use the ``run_cosmos()`` function:
 
 For example:
 
