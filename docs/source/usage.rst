@@ -8,7 +8,7 @@ Installation
 To use CoSMoS, first make a check-out with, for example, TortoiseSNVN, of the CoSMoS and other related code. Scripts are hosted on the Deltares' repository called Open Earth Tools. 
 
 You will need the following folders:
-Enumerated lists:
+
 1. For CoSMoS `<https://svn.oss.deltares.nl/repos/openearthtools/trunk/python/applications/cosmos>`_.
 2. For Delft3D `<https://svn.oss.deltares.nl/repos/openearthtools/trunk/python/applications/delft3d>`_.
 3. For Deltashell `<https://svn.oss.deltares.nl/repos/openearthtools/trunk/python/applications/DeltaShell>`_.
