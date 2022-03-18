@@ -19,10 +19,7 @@ Secondly, make an Python environment in, for example, Anaconda such that the Pyt
 
 .. code-block:: none
 
-    cat program.py
-
-    for i in range(10):
-        print(i)
+    conda env create -f d:\checkouts\Python\OpenEarthTools\cosmos\environment_cosmos.yml
 
 
 
