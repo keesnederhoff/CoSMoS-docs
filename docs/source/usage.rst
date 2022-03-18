@@ -10,10 +10,9 @@ To use CoSMoS, first make a check-out with, for example, TortoiseSNVN, of the Co
 You will need the following folders:
 
 1. For CoSMoS `<https://svn.oss.deltares.nl/repos/openearthtools/trunk/python/applications/cosmos>`_.
-2. For Delft3D `<https://svn.oss.deltares.nl/repos/openearthtools/trunk/python/applications/delft3d>`_.
-3. For Deltashell `<https://svn.oss.deltares.nl/repos/openearthtools/trunk/python/applications/DeltaShell>`_.
-4. For Tropical Cyclones `<https://svn.oss.deltares.nl/repos/openearthtools/trunk/python/applications/tropical_cyclones>`_.
-5. For XBeach `<https://svn.oss.deltares.nl/repos/openearthtools/trunk/python/applications/xbeach>`_.
+2. For Deltashell `<https://svn.oss.deltares.nl/repos/openearthtools/trunk/python/applications/DeltaShell>`_.
+3. For Tropical Cyclones `<https://svn.oss.deltares.nl/repos/openearthtools/trunk/python/applications/tropical_cyclones>`_.
+4. For XBeach `<https://svn.oss.deltares.nl/repos/openearthtools/trunk/python/applications/xbeach>`_.
 
 Secondly, make an Python environment in, for example, Anaconda such that the Python interpreter, libraries and scripts installed into it are isolated from the rest. Use the provided YAML file, ``environment_cosmos.yml``, to let Python install all the relevant libaries. 
 
